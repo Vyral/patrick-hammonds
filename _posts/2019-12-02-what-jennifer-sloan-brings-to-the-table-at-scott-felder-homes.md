@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Jennifer Sloan Brings to the Table at Scott Felder Homes
-date: 2020-02-27 14:53:24
+date: 2019-12-02 14:53:00
 tags:
   - Real Estate
 excerpt: >-
