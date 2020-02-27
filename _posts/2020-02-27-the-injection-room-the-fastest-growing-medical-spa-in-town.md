@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Injection Room: The Fastest-Growing Medical Spa in Town'
-date:
+date: 2020-02-27 14:48:39
 tags:
 excerpt: >-
   Allow me to introduce you to the fastest-growing medical spa in San Antonio:
